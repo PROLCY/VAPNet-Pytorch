@@ -23,16 +23,13 @@ View Adjustment Prediction Model, which we named as **VAPNet**, predicts wheter 
 - Open Images[[Homepage](https://storage.googleapis.com/openimages/web/index.html)][[CVDF](https://github.com/cvdfoundation/open-images-dataset#download-images-with-bounding-boxes-annotations)]
 
 # Usage
-
-```bash
-pip install -r requirements.txt
-```
-
 ```bash
 git clone https://github.com/PROLCY/VAPNet-Pytorch.git
 cd VAPNet-Pytorch && mkdir weight
 ```
-
+```bash
+pip install -r requirements.txt
+```
 ## Demo
 
 Download pretrained model in the directory `weight`
