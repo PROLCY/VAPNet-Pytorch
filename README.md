@@ -4,7 +4,7 @@ This is an unofficial Pytorch implementation of **View Adjustment Prediction Mod
 
 # View Adjustment Prediction Model
 
-View Adjustment Prediction Model, which we named as **VAPNet**, predicts wheter an image needs adjustment, which adjustment, and how much adjustment is needed.
+View Adjustment Prediction Model, which we named as **VAPNet**, predicts whether an image needs adjustment, which adjustment, and how much adjustment is needed.
 
 # Performance
 
