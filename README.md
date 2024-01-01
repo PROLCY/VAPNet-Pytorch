@@ -1,6 +1,6 @@
 # VAPNet-Pytorch
 
-This is an unofficial Pytorch implementation of **View Adjustment Prediction Model** in [Camera View Adjustment Prediction for Improving Image Composition](https://arxiv.org/abs/2104.07608).
+This is an unofficial Pytorch implementation of **View Adjustment Prediction Model** in [Camera View Adjustment Prediction for Improving Image Composition(2021)](https://arxiv.org/abs/2104.07608).
 
 # View Adjustment Prediction Model
 
@@ -14,7 +14,7 @@ View Adjustment Prediction Model, which we named as **VAPNet**, predicts whether
 |    Version1    |  0.624  |  0.483  |  0.263   |   0.240   | 0.332  |  0.295   |    0.015    |    0.061     |     0.152     |         0.144         |  0.750  |
 |    Version2    |  0.627  |  0.485  |  0.324   |   0.300   | 0.494  |  0.512   |    None     |     None     |     None      |         None          |  0.759  |
 
-- Columns from `Left` to `Clockwise` means F1-Score
+- Columns from `Left` to `Counter-Clockwise` means F1-Score
 
 # Dataset
 
